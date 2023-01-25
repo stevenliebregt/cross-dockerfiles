@@ -1,0 +1,1 @@
+docker build -f ./raspberry-pi.Dockerfile . -t stevenliebregt/cross/raspberry-pi:latest
